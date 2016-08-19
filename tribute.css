@@ -1,0 +1,44 @@
+.img-responsive {
+  margin: 0 auto;
+}
+
+.caption {
+  margin-bottom: 20px;
+}
+
+ul {
+  margin-bottom: 10px;
+  margin-top: 0px;
+  font-family: 'Open Sans Condensed';
+  font-size: 25px;
+}
+
+.info {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.container-fluid {
+  background-color: #C8F7C5;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h2 {
+  font-family: 'Satisfy', cursive;
+  color: #87D37C;
+  margin-top: 40px;
+  font-size: 55px;
+}
+
+h4 {
+  sans-serif;
+  margin-bottom: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 35px;
+}
+
+#heading {
+  font-family: 'Pacifico', cursive;
+  font-size: 35px;
+}
